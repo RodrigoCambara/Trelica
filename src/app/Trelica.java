@@ -10,7 +10,7 @@ public class Trelica {
 
 	public static void main(String[] args) {
 		
-		//program
+		//Inicial program 
 		
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
